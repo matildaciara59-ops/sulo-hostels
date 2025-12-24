@@ -1,0 +1,7 @@
+sulo-hostels-backend/
+├── manage.py
+├── rental_system/
+├── houses/
+├── tenants/
+├── payments/
+├── requirements.txt
